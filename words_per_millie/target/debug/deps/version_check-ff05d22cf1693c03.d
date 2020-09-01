@@ -1,0 +1,10 @@
+/Users/lukasjorgensen/Git/programs/rs_words_per_millisecond/words_per_millie/target/debug/deps/version_check-ff05d22cf1693c03.rmeta: /Users/lukasjorgensen/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/lib.rs /Users/lukasjorgensen/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/version.rs /Users/lukasjorgensen/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/channel.rs /Users/lukasjorgensen/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/date.rs
+
+/Users/lukasjorgensen/Git/programs/rs_words_per_millisecond/words_per_millie/target/debug/deps/libversion_check-ff05d22cf1693c03.rlib: /Users/lukasjorgensen/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/lib.rs /Users/lukasjorgensen/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/version.rs /Users/lukasjorgensen/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/channel.rs /Users/lukasjorgensen/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/date.rs
+
+/Users/lukasjorgensen/Git/programs/rs_words_per_millisecond/words_per_millie/target/debug/deps/version_check-ff05d22cf1693c03.d: /Users/lukasjorgensen/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/lib.rs /Users/lukasjorgensen/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/version.rs /Users/lukasjorgensen/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/channel.rs /Users/lukasjorgensen/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/date.rs
+
+/Users/lukasjorgensen/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/lib.rs:
+/Users/lukasjorgensen/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/version.rs:
+/Users/lukasjorgensen/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/channel.rs:
+/Users/lukasjorgensen/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/date.rs:
